@@ -59,17 +59,17 @@ const Nav = () => {
           <span className="px-4">psjeee8@gmail.com</span>
         </h1>
         <ul className="p-4 space-y-4 leading-loose">
-          <li className="p-2 border-b border-gray-300">
+          <li className="p-2 cursor-pointer border-b border-gray-300">
             <Link to="home" smooth={true} duration={500} onClick={handleNav}>
               Home
             </Link>
           </li>
-          <li className="p-2 border-b border-gray-300">
+          <li className="p-2 cursor-pointer border-b border-gray-300">
             <Link to="about" smooth={true} duration={500} onClick={handleNav}>
               About
             </Link>
           </li>
-          <li className="p-2 border-b border-gray-300">
+          <li className="p-2 cursor-pointer border-b border-gray-300">
             <Link
               to="projects"
               smooth={true}
@@ -79,12 +79,12 @@ const Nav = () => {
               Projects
             </Link>
           </li>
-          <li className="p-2 border-b border-gray-300">
+          <li className="p-2 cursor-pointer border-b border-gray-300">
             <Link to="contact" smooth={true} duration={500} onClick={handleNav}>
               Contact
             </Link>
           </li>
-          <li className="p-2">
+          <li className="p-2 cursor-pointer">
             <button>
               {" "}
               <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
