@@ -39,7 +39,7 @@ const Body = () => {
           </a>
           <span className="mx-2">|</span>
           <a
-            href="https://www.codechef.com/users/psjeee8"
+            href="https://www.codechef.com/users/prince_mmm"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-500 underline text-xl"
