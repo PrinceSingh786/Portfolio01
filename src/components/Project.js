@@ -3,29 +3,23 @@ import project1Image from "../assets/project1.jpeg";
 
 const projects = [
   {
-    title: "Project 1",
+    title: "Quick-Chat",
     description:
-      "This is a description of Project 1. It includes details about the project and its case study.",
+      "A Real time chat app built using Socket.io and JWT authentication. It is fully responsive for desktop and mobile. I used React.js, Node.js, Express.js, MongoDB, Socket.io, JWT",
     imageUrl: project1Image,
   },
   {
-    title: "Project 2",
+    title: "Forever ",
     description:
-      "This is a description of Project 2. It includes details about the project and its case study.",
+      "A full stack E-commerce web application with user registration, product filtering , secure login , email verification and backend API protection using JWT authentication and custom middleware. I used React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT.",
     imageUrl: project1Image,
   },
   {
-    title: "Project 3",
+    title: "Portfolio Website",
     description:
-      "This is a description of Project 3. It includes details about the project and its case study.",
+      "A Personal portfolio website designed to showcase projects , skills and contact details in a clean UI. Built using reusable React components with Tailwind CSS for fast development and responsive design. I used React.js, Tailwind CSS, Vercel. ",
     imageUrl: project1Image,
-  },
-  {
-    title: "Project 4",
-    description:
-      "This is a description of Project 4. It includes details about the project and its case study.",
-    imageUrl: project1Image,
-  },
+  }
   // Add more projects as needed
 ];
 
