@@ -6,7 +6,7 @@ const projects = [
     title: "Quick-Chat",
     description:
       "A Real time chat app built using Socket.io and JWT authentication. It is fully responsive for desktop and mobile. I used React.js, Node.js, Express.js, MongoDB, Socket.io, JWT",
-    imageUrl: project1Image,
+    imageUrl: "https://drive.google.com/file/d/1adOqxl_hk6e4NeyqXOSuh89PrfGJwghW/view?usp=sharing",
   },
   {
     title: "Forever ",
