@@ -2,36 +2,13 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="bg-black text-white py-4">
-      <div className="container mx-auto text-center">
-        <p className="text-lg py-4">
-          &copy; 2025 Prince Singh. All rights reserved.
-        </p>
-        <div className="mt-2 py-4">
-          <a
-            href="https://github.com/your-profile"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-500 mx-2"
-          >
-            GitHub
-          </a>
-          <a
-            href="https://linkedin.com/in/your-profile"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-500 mx-2"
-          >
-            LinkedIn
-          </a>
-          <a
-            href="https://twitter.com/your-profile"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-500 mx-2"
-          >
-            Twitter
-          </a>
+    <footer className="bg-gray-900 text-white py-6">
+      <div className="max-w-6xl mx-auto px-6 text-center">
+        <p className="text-sm">&copy; {new Date().getFullYear()} Prince Singh. All rights reserved.</p>
+        <div className="mt-3">
+          <a href="https://github.com/PrinceSingh786" target="_blank" rel="noopener noreferrer" className="mx-2 text-gray-300 hover:text-white">GitHub</a>
+          <a href="#" target="_blank" rel="noopener noreferrer" className="mx-2 text-gray-300 hover:text-white">LinkedIn</a>
+          <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer" className="mx-2 text-gray-300 hover:text-white">Resume</a>
         </div>
       </div>
     </footer>
