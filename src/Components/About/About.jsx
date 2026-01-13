@@ -40,7 +40,7 @@ const About = () => {
                 <p className="text-sm md:text-md leading-tight">
                   I have a strong foundation in Data Structures and Algorithms
                   (DSA) and actively participate in competitive programming.
-                  Check out my profiles on:
+                   Check out my profiles on:
                 </p>
               </span>
             </div>
