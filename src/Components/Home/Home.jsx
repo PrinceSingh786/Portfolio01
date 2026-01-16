@@ -10,7 +10,7 @@ const Home = () => {
           <TextChange />
         </h1>
         <p className="text-sm md:text-2xl tracking-tight ">
-         Hi, I’m Prince Singh 👋
+         
 A software developer passionate about backend systems, full-stack development, and problem-solving. I love turning ideas into reliable and scalable applications.
         </p>
        <a href="mailto:yourname@gmail.com">
