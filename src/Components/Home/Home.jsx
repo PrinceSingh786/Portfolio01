@@ -20,7 +20,14 @@ A software developer passionate about backend systems, full-stack development, a
 </a>
 
       </div>
-      <div>
+      <div className="
+    w-40 h-40
+    sm:w-56 sm:h-56
+    md:w-72 md:h-72
+    lg:w-80 lg:h-80
+    object-cover
+    rounded-xl
+  ">
         <img className="" src={avatarImg} alt="" />
       </div>
     </div>
