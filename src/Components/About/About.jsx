@@ -10,7 +10,7 @@ const About = () => {
       <div>
         <h2 className="text-2xl md:text-4xl font-bold">About</h2>
         <div className="md:flex flex-wrap flex-col md:flex-row items-center">
-          <img className="md:h-80 mr-auto mt-auto" src={AboutImg} alt="About img" />
+          <img className="md:h-80 mr-12 mt-5" src={AboutImg} alt="About img" />
 
           <ul>
             <div className="flex gap-3 py-4">
