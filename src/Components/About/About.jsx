@@ -12,7 +12,7 @@ const About = () => {
         <div className="md:flex flex-wrap flex-col md:flex-row items-center">
           <img className="md:h-80 mr-12 mt-5 w-40 h-40
     sm:w-56
-    md:w-72 
+    md:w-72 md:h-90 
     object-cover
     rounded-xl" src={AboutImg} alt="About img" />
 
