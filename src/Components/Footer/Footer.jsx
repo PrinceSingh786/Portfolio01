@@ -19,31 +19,27 @@ const Footer = () => {
       <ul className="text-sm md:text-xl">
         <div className="mt-4 text-black un">
           <a
-            href="https://leetcode.com/u/Princesingh923/"
+            href="https://www.linkedin.com/in/prince-singh-19974824b/"
             target="_blank"
             rel="noopener noreferrer"
             className="underline"
           >
-            <b>LeetCode</b>
+            <b>Linkedin</b>
           </a>
           <span className="mx-2">|</span>
-          <a
-            href="https://www.geeksforgeeks.org/user/psjeokzt/"
+           <a
+            href="https://github.com/PrinceSingh786"
             target="_blank"
             rel="noopener noreferrer"
             className="underline"
           >
-            <b>GeeksforGeeks</b>
+            <b>FaGithub</b>
           </a>
-          <span className="mx-2">|</span>
-          <a
-            href="https://www.codechef.com/users/prince_mmm"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="underline"
-          >
-            <b>Codechef</b>
-          </a>
+          <ul>
+            <li><b><i>+91 9125275805</i></b></li>
+            <li><b><i>psjeee8@gmail.com</i></b></li>
+          </ul>
+          
         </div>
       </ul>
     </div>

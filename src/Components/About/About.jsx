@@ -46,6 +46,34 @@ const About = () => {
                   (DSA) and actively participate in competitive programming.
                    Check out my profiles on:
                 </p>
+                 <div className="mt-4  text-blue-500">
+          <a
+            href="https://leetcode.com/u/Princesingh923/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline"
+          >
+            <b>LeetCode</b>
+          </a>
+          <span className="mx-2">|</span>
+          <a
+            href="https://www.geeksforgeeks.org/user/psjeokzt/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline"
+          >
+            <b>GeeksforGeeks</b>
+          </a>
+          <span className="mx-2">|</span>
+          <a
+            href="https://www.codechef.com/users/prince_mmm"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline "
+          >
+            <b>Codechef</b>
+          </a>
+        </div>
               </span>
             </div>
             
