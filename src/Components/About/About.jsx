@@ -21,7 +21,7 @@ const About = () => {
                   MERN developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  I’m Prince Singh, a computer science graduate with hands-on
+                  I have  hands-on
                   experience in full-stack development using the MERN stack. I
                   have worked on projects involving authentication, real-time
                   communication, and database design. I enjoy solving
