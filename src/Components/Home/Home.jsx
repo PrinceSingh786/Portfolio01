@@ -13,7 +13,7 @@ const Home = () => {
          
 A software developer passionate about backend systems, full-stack development, and problem-solving. I love turning ideas into reliable and scalable applications.
         </p>
-       <a href="mailto:yourname@gmail.com">
+       <a href="mailto:psjeee8@gmail.com">
   <button className="mt-5 md:md-10 text-white py-02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
     Contact Me
   </button>
